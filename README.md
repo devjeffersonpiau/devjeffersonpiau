@@ -1,5 +1,5 @@
-Hello, my name is jefferson piau - and I am currently studying,
-docker, containers and kubernetes CI/CD, pipeline, git versioning and github
+Hello, my name is jefferson piau - and I am currently studying, linux,
+docker, containers and kubernetes CI/CD, pipeline, terraform, git versioning and github
 I learned from the courses I took, the foundation of the cloud and the deepest part of it, admin azure microsoft
 az 900 and az 104 certifications both of the course.
 - 📫 How to contact me: linkedin.com/in/jefferson-piau
