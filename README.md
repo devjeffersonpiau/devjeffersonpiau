@@ -3,7 +3,7 @@ docker, containers and kubernetes, terraform, CI/CD, pipeline, git versioning an
 I learned from the courses I took, the foundation of the cloud and the deepest part of it, admin azure microsoft
 az 900 and az 104 certifications both of the course. FMU - Systems Development Analysis
 - 📫 How to contact me: linkedin.com/in/jefferson-piau
-- Phone 55 - 11 - 972546459
+- Phone 55 - 11 - 
 - Holder of a good softskill, as I come from an area that required me and I learned to have
 
 <div align="center">
