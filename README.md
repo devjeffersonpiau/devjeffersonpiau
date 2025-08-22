@@ -2,7 +2,7 @@ Olá, meu nome é Jefferson Piau - DevOps engineer PL, possuo conhecimento em Li
 
 📫 Como entrar em contato comigo: linkedin.com/in/jefferson-piau
 ( https://www.linkedin.com/in/jefferson-piau/ )
-Detentor de uma boa softskill, pois fui de uma área que eu que exigia isso.
+Detentor de uma boa softskill, pois fui de uma área que exigia isso.
 
 <div align="center">
   <a href="https://github.com/devjeffersonpiau">
